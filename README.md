@@ -11,6 +11,6 @@
 - Internet das Coisas (IoT)
 
 ## Sobre
-- 🔭 Atualmenete cursando Ciência da Computação no Cesar School e Administração na UPE. Fascinado e ansioso para aprender mais sobre tecnologia e inovação.
+- 🔭 Atualmente cursando Ciência da Computação no Cesar School e Administração na UPE. Fascinado e ansioso para aprender mais sobre tecnologia e inovação.
 
 
