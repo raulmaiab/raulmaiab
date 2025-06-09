@@ -12,6 +12,5 @@
 
 ## Sobre
 - 🔭 Atualmenete cursando Ciência da Computação no Cesar School e Administração na UPE. Fascinado e ansioso para aprender mais sobre tecnologia e inovação.
-- 
 
 
