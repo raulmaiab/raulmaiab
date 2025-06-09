@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**raulmaiab/raulmaiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Informações Profissionais
+- GitHub: [raulmaiab](https://github.com/raulmaiab)
+- E-mail: raulmaiabarbosa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/raulmaiab/
 
-Here are some ideas to get you started:
+## Áreas de Interesse
+- Desenvolvimento Web e Mobile
+- Manipulação com Arduíno
+- Internet das Coisas (IoT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+- 🔭 Atualmenete cursando Ciência da Computação no Cesar School e Administração na UPE. Fascinado e ansioso para aprender mais sobre tecnologia e inovação.
+- 
+
+
