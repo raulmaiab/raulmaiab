@@ -15,8 +15,10 @@ Atualmente cursando Ciência da Computação no Cesar School e Administração n
 
 ## 🔭 Áreas de Interesse
 - Desenvolvimento Web e Mobile
-- Manipulação com Arduíno
+- LLMs
 - Internet das Coisas (IoT)
+- Computação Quantica
+- IA
 
 
 
