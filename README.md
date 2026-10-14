@@ -1,5 +1,5 @@
 ## Sobre Mim:
-Atualmente cursando Ciência da Computação no Cesar School. Fascinado e ansioso para aprender mais sobre tecnologia e inovação.
+Atualmente cursando Ciência da Computação no Cesar School. Aprendo rápido e acompanho o mundo de tecnologia e inteligência artificial ativamente.
 
 ###
 
@@ -9,7 +9,7 @@ Atualmente cursando Ciência da Computação no Cesar School. Fascinado e ansios
 ###
 
 ## 💻 Experiência de Tecnologia:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/language-C-blue?style=for-the-badge&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![DaVinci Resolve[](https://shields.io) ](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=) ![MySQL](https://shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/language-C-blue?style=for-the-badge&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)
 
 ###
 
